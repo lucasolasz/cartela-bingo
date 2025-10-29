@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bingocard.ltech.app.br/sitemap.xml
